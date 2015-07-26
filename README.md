@@ -1,3 +1,4 @@
+# Rprofile
 # Things you might want to change
 
 # options(papersize="a4")
@@ -20,3 +21,6 @@
 # (This would need the fortunes package to be installed.)
 #  if (interactive()) 
 #    fortunes::fortune()
+
+
+
